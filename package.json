@@ -1,0 +1,16 @@
+{
+  "name": "gametest",
+  "version": "1.0.0",
+  "description": "a simple test game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eli Shattuck",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
